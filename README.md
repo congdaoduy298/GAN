@@ -45,5 +45,5 @@ GAN_SVHN.ipynb: I've built a generative adversarial network trained on The Stree
 Cycle_GAN.ipynb: I've built a generative adversarial network trained on set of images of Yosemite national park. 
 
 # REFERENCE
-
+ 
  https://github.com/udacity/deep-learning-v2-pytorch
