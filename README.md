@@ -12,7 +12,7 @@ These notebook include some main steps:
  
  + Define the discriminator to classify image (real or fake).
  
- + Define the generator to generate image fixed_data (vector z on MNIST or SVHN, image X or Y in Yosemite national park).
+ + Define the generator to generate image from fixed_data (vector z on MNIST or SVHN, image X or Y in Yosemite national park).
  
  + Define loss and optimizer.
  
